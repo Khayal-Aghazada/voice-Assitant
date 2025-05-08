@@ -1,6 +1,6 @@
-# 🗣️ WhisprAI – Your Voice-Controlled Desktop Assistant
+# 🗣️ Your Voice-Controlled Desktop Assistant
 
-WhisprAI is a fast and flexible voice assistant for your computer, built using Python.  
+Voice-Controlled Desktop Assistant is a fast and flexible voice assistant for your computer, built using Python.  
 It listens to your voice commands and automates desktop actions — from opening Chrome to translating words, taking screenshots, controlling media, and more.
 
 ---
